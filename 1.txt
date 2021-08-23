@@ -2,3 +2,5 @@ this is git branch test1 commit
 modify 1
 modify 2
 modify 3
+
+modify branch test2
