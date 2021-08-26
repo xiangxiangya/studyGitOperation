@@ -9,3 +9,5 @@ modify 4
 modify 4
 
 >>>>>>> test1
+
+modify branch test2
